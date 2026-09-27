@@ -1,15 +1,7 @@
-prog "Terminal" lxterminal lxterminal			
+prog "Terminal" terminal sakura			
 prog "Web Browser" firefox x-www-browser
-prog "File Manager" thunar thunar
+prog "File Manager" xfe xfe
 
 separator
 
-# Native IceWM Dynamic Menu (Top-level XDG categories only)
-menuprog "Applications" folder icewm-menu-fdo
-
-separator
-
-menu "IceWM Settings" folder {
-    prog "Reload Menu" reload icewm --restart
-    prog "Preferences" settings icewm-pref
-}
+menuprog "Applications" folder icewm-menu-fdo --no-sub-cats

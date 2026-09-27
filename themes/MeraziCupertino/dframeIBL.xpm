@@ -1,0 +1,27 @@
+/* XPM */
+static char *dframeIBL[] = {
+/* width height ncolors chars_per_pixel */
+"15 15 5 1",
+/* colors */
+"  c #262626",
+". c #282828",
+"X c #191919",
+"o c #3D3D3D",
+"O c #3F3F3F",
+/* pixels */
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"Xo.            ",
+"XoOOOOOOOOOOOOO",
+"XXXXXXXXXXXXXXX"
+};

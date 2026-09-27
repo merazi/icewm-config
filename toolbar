@@ -2,9 +2,6 @@
 #
 # Place your personal variant in $HOME/.icewm directory.
 
-prog gnome-terminal ! x-terminal-emulator
-#prog FTE fte fte
-#prog Netscape netscape netscape
-#prog    "Vim" vim /usr/bin/gvim -f
-prog    "WWW" ! x-www-browser
-
+prog Firefox firefox firefox
+prog Terminal terminal sakura
+prog Mousepad mousepad mousepad

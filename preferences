@@ -758,13 +758,13 @@ DockApps="right down desktop"
 # ShowPopupsAbovePointer=0 # 0/1
 
 #  Show programs submenu in the program menu.
-# ShowProgramsMenu=1 # 0/1
+ShowProgramsMenu=0 # 0/1
 
 #  Show the run menu item in the program menu.
-# ShowRun=1 # 0/1
+ShowRun=0 # 0/1
 
 #  Show settings submenu in the program menu.
-# ShowSettingsMenu=1 # 0/1
+#ShowSettingsMenu=1 # 0/1
 
 #  Show task bar.
 # ShowTaskBar=1 # 0/1
@@ -782,10 +782,10 @@ DockApps="right down desktop"
 # ShutdownCommand="test -e /run/systemd/system && systemctl poweroff || sudo -n /sbin/poweroff"
 
 #  Maximized windows can be resized.
-# SizeMaximized=0 # 0/1
+SizeMaximized=1 # 0/1
 
 #  Smart window placement with minimal overlap.
-# SmartPlacement=1 # 0/1
+SmartPlacement=0 # 0/1
 
 #  Distance in pixels before windows snap together.
 # SnapDistance=8 # [0-64]
