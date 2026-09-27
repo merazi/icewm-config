@@ -782,7 +782,7 @@ ShowRun=0 # 0/1
 # ShutdownCommand="test -e /run/systemd/system && systemctl poweroff || sudo -n /sbin/poweroff"
 
 #  Maximized windows can be resized.
-SizeMaximized=1 # 0/1
+#SizeMaximized=1 # 0/1
 
 #  Smart window placement with minimal overlap.
 SmartPlacement=0 # 0/1

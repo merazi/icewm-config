@@ -1,2 +1,3 @@
 icewmbg --scaled=1 ~/Pictures/gnu.jpg 
-#pcmanfm-qt --desktop &
+pasystray &
+xfce4-power-manager &
