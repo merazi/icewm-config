@@ -869,13 +869,13 @@ TaskBarAtTop=1 # 0/1
 # TaskBarShowMEMStatus=1 # 0/1
 
 #  Show mailbox status on task bar.
-# TaskBarShowMailboxStatus=1 # 0/1
+TaskBarShowMailboxStatus=0 # 0/1
 
 #  Show network status on task bar.
-# TaskBarShowNetStatus=1 # 0/1
+TaskBarShowNetStatus=0 # 0/1
 
 #  Show 'show desktop' button on taskbar (value of 2 to put after the clock)
-# TaskBarShowShowDesktopButton=1 # [0-2]
+TaskBarShowShowDesktopButton=0 # [0-2]
 
 #  Show 'Start' menu on task bar.
 # TaskBarShowStartMenu=1 # 0/1
@@ -890,10 +890,10 @@ TaskBarAtTop=1 # 0/1
 # TaskBarShowWindowIcons=1 # 0/1
 
 #  Show 'window list' menu on task bar.
-# TaskBarShowWindowListMenu=1 # 0/1
+TaskBarShowWindowListMenu=0 # 0/1
 
 #  Show titles of windows on task buttons of the task bar.
-# TaskBarShowWindowTitles=1 # 0/1
+TaskBarShowWindowTitles=0 # 0/1
 
 #  Show windows on the taskbar.
 # TaskBarShowWindows=1 # 0/1
@@ -908,7 +908,7 @@ TaskBarAtTop=1 # 0/1
 # TaskBarUseMouseWheel=1 # 0/1
 
 #  Task bar width as percentage of the screen width.
-# TaskBarWidthPercentage=100 # [0-100]
+#TaskBarWidthPercentage=80 # [0-100]
 
 #  Place workspace pager on left, not right.
 # TaskBarWorkspacesLeft=1 # 0/1
