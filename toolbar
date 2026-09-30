@@ -3,5 +3,5 @@
 # Place your personal variant in $HOME/.icewm directory.
 
 prog Firefox firefox firefox
-prog Terminal terminal sakura
+prog Terminal terminal x-terminal-emulator
 prog Mousepad mousepad mousepad

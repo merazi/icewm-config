@@ -1,6 +1,6 @@
 prog "Terminal" terminal x-terminal-emulator			
 prog "Web Browser" firefox x-www-browser
-prog "File Manager" xfe xfe
+prog "File Manager" thunar thunar
 
 separator
 
