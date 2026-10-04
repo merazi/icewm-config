@@ -1,4 +1,7 @@
-icewmbg --scaled=1 ~/Pictures/Terraform-blue-84233c37c083e77c209e91a4bbc2049f9c9cc5e1.webp
+#icewmbg --scaled=1 ~/Pictures/Terraform-blue-84233c37c083e77c209e91a4bbc2049f9c9cc5e1.webp
+sleep 2
+~/.local/bin/monitor-hotplug.sh
+xfdesktop &
 pasystray &
 xfce4-power-manager &
 nm-applet &

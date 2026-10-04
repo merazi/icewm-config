@@ -110,7 +110,7 @@
 # ClockClassHint="icewm.XClock"
 
 #  Command to run on clock.
-# ClockCommand="xclock -name icewm -title Clock"
+ClockCommand="gsimplecal"
 
 #  Confirm logout.
 # ConfirmLogout=1 # 0/1
@@ -782,7 +782,7 @@ ShowRun=0 # 0/1
 # ShutdownCommand="test -e /run/systemd/system && systemctl poweroff || sudo -n /sbin/poweroff"
 
 #  Maximized windows can be resized.
-#SizeMaximized=1 # 0/1
+SizeMaximized=0 # 0/1
 
 #  Smart window placement with minimal overlap.
 SmartPlacement=0 # 0/1
@@ -803,7 +803,7 @@ SmartPlacement=0 # 0/1
 # SuspendCommand="test -e /run/systemd/system && systemctl suspend || sudo -n /usr/sbin/pm-suspend"
 
 #  Task bar at top of the screen.
-TaskBarAtTop=1 # 0/1
+TaskBarAtTop=0 # 0/1
 
 #  Auto hide task bar after delay.
 # TaskBarAutoHide=0 # 0/1
@@ -893,7 +893,7 @@ TaskBarShowShowDesktopButton=0 # [0-2]
 TaskBarShowWindowListMenu=0 # 0/1
 
 #  Show titles of windows on task buttons of the task bar.
-TaskBarShowWindowTitles=0 # 0/1
+TaskBarShowWindowTitles=1 # 0/1
 
 #  Show windows on the taskbar.
 # TaskBarShowWindows=1 # 0/1

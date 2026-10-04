@@ -4,7 +4,7 @@ key "Alt+Ctrl+b"            xdg-open about:blank
 key "Alt+Ctrl+s"            xdg-open https://www.google.com
 key "Super+r"               rofi -combi-modi window,drun,ssh -show combi
 
-key "Super+e"               xfe
+key "Super+e"               thunar
 key "Super+Shift+r"         icewm -r
 key "Super+Shift+s"         flameshot gui
 
