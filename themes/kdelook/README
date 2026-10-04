@@ -1,0 +1,18 @@
+Thankyou for downloading my theme, i hope you like it! :)
+This theme makes your desktop look like kde-look.org!
+I don't know how to make icewm themes so I downloaded Acqua and
+changed it as necessary. (Thanks Aronnax!) You might find bits
+of Acqua in this theme if you look around *sigh*.
+
+How to install:
+1. -IMPORTANT- If you want to use the install script then you
+first have to decide whether you want to install for yourself
+or system wide. Uncomment the appropriate line in the script.
+2. Run the script and hope it works properly.
+3. Open KControl into the Window Decoration section.
+-or-
+Right click on a window border and click "Configure" then go to
+Window Decoration.
+4. Select IceWM.
+5. Go to the Configure tab and select kdelook.
+6. Have fun.

@@ -1,0 +1,108 @@
+ThemeDescription              = "Icequinox"
+ThemeAuthor                   = "pingsut"
+
+Look                          = flat
+RolloverButtonsSupported      = 0
+Gradients                     = "menusel.xpm menusep.xpm taskbuttonactive.xpm workspacebuttonbg.xpm workspacebuttonactive.xpm"
+SmallIconSize                 = 22
+BorderSizeX                   = 2
+BorderSizeY                   = 1
+CornerSizeX                   = 2
+CornerSizeY                   = 2
+DlgBorderSizeX                = 1
+DlgBorderSizeY                = 1
+
+################################################## Titlebar
+
+ShowMenuButtonIcon            = 0
+TitleBarCentered              = 1
+TitleBarJustify               = 50
+TitleBarHeight                = 18
+TitleButtonsLeft              = "s"
+TitleButtonsRight             = "xmi"
+TitleButtonsSupported         = "sxim"
+ColorNormalTitleButton        = "#d6d6d6"
+ColorActiveTitleBarText       = "#141312"
+ColorNormalTitleBarText       = "#8d8c8b"
+ColorActiveTitleBarShadow     = "#efefee"
+ColorNormalTitleBarShadow     = "#efefee"
+
+################################################## Taskbar
+
+TaskBarAtTop                  = 1
+TaskBarClockLeds              = 0
+TrayDrawBevel                 = 0
+TrayShowAllWindows            = 1
+TaskBarShowCollapseButton     = 1
+ColorNormalTaskBarAppText     = "#CCCCCC"
+ColorMinimizedTaskBarAppText  = "#A6A6A6"
+ColorActiveTaskBarAppText     = "#FFFFFF"
+ColorNormalWorkspaceButtonText= "#CCCCCC"
+ColorActiveWorkspaceButtonText= "#FFFFFF"
+
+################################################## Menu
+
+ColorNormalMenu               = "#343434"
+ColorActiveMenuItem           = "#626262"
+ColorNormalMenuItemText       = "#CCCCCC"
+ColorDisabledMenuItemText     = "#A6A6A6"
+
+################################################## ToolTips
+
+ColorToolTip                  = "#000000"
+ColorToolTipText              = "#CCCCCC"
+
+################################################## Clock
+
+ColorClock                    = ""
+ColorClockText                = "#A6A6A6"
+
+################################################## 
+
+ColorLabel                    = "#E0DFDF"
+ColorDialog                   = "#E0DFDF"
+
+################################################## QuickSwitch
+
+ColorQuickSwitch              = "#CCCCCC"
+ColorQuickSwitchText          = "#A6A6A6"
+QuickSwitchSmallWindow        = 1
+ColorQuickSwitchActive        = "#CCCCCC"
+QuickSwitchFillSelection      = 0
+
+################################################## Scrollbar
+
+ScrollBarX                    = 17                          # Scrollbar width
+ScrollBarY                    = 17                          # Scrollbar (button) height
+ColorScrollBar                = "#c3c1bf"                   # Scrollbar background (sliding area)
+ColorScrollBarSlider          = "#e3e2e1"                   # Background of the slider button in scrollbars
+ColorScrollBarButton          = "#E0DFDF"                   # Background of the arrow buttons in scrollbars
+
+################################################## ListBox
+
+ColorListBox                  = "#E0DFDF"                   # Background of listboxes
+ColorListBoxSelection         = "#c5c3c1"                   # Background of selected listbox items
+
+# Font Specification
+TitleFontNameXft		= Ubuntu:size=9:bold
+MenuFontNameXft			= Ubuntu:size=9
+MinimizedWindowFontNameXft	= Ubuntu:size=9:bold
+ActiveButtonFontNameXft		= Ubuntu:size=9:bold
+NormalButtonFontNameXft		= Ubuntu:size=9
+ToolButtonFontNameXft		= Ubuntu:size=9
+NormalWorkspaceFontNameXft	= Ubuntu:size=9:bold
+ActiveWorkspaceFontNameXft	= Ubuntu:size=9:bold
+QuickSwitchFontNameXft		= Ubuntu:size=9
+ListBoxFontNameXft		= Ubuntu:size=9
+StatusFontNameXft		= Ubuntu:size=9
+ToolTipFontNameXft		= Ubuntu:size=9
+ActiveTaskBarFontNameXft	= Ubuntu:size=9
+NormalTaskBarFontNameXft	= Ubuntu:size=9
+ClockFontNameXft		= Ubuntu:size=9
+InputFontNameXft		= Ubuntu:size=9
+
+################################################## Desktop
+
+DesktopBackgroundCenter = 1
+DesktopBackgroundScaled = 0
+DesktopBackgroundImage = "/home/hamzah/Gambar/BlankOn/evening.png"
