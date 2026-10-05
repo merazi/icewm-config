@@ -4,4 +4,4 @@
 
 prog Firefox firefox firefox
 prog Terminal terminal x-terminal-emulator
-prog Mousepad mousepad mousepad
+prog Mousepad notepad mousepad
