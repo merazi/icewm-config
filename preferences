@@ -422,28 +422,28 @@ DockApps="right down desktop"
 # KeyWinFullscreen="Alt+F11"
 
 #  Hides the active window.
-# KeyWinHide="Alt+Shift+F12"
+KeyWinHide="Super+i"
 
 #  Lowers the window that currently has input focus.
 # KeyWinLower="Alt+F3"
 
 #  Maximizes the active window with borders.
-# KeyWinMaximize="Alt+F10"
+KeyWinMaximize="Super+m"
 
 #  Maximizes the active window horizontally.
-# KeyWinMaximizeHoriz=""
+KeyWinMaximizeHoriz="Super+]"
 
 #  Maximizes the active window vertically.
-# KeyWinMaximizeVert="Alt+Shift+F10"
+KeyWinMaximizeVert="Super+["
 
 #  Posts the window menu.
 # KeyWinMenu="Alt+space"
 
 #  Iconifies the active window.
-# KeyWinMinimize="Alt+F9"
+#KeyWinMinimize="Alt+F9"
 
 #  Starts movement of the active window.
-# KeyWinMove="Alt+F7"
+KeyWinMove="Super+Shift+m"
 
 #  Switches focus to the next window.
 # KeyWinNext="Alt+F6"
@@ -461,10 +461,10 @@ DockApps="right down desktop"
 # KeyWinRestore="Alt+F5"
 
 #  Rolls up the active window.
-# KeyWinRollup="Alt+F12"
+KeyWinRollup="Super+Alt+r"
 
 #  Starts resizing of the active window.
-# KeyWinSize="Alt+F8"
+KeyWinSize="Super+Shift+r"
 
 #  Smart place the active window.
 # KeyWinSmartPlace="Ctrl+Alt+Shift+KP_Begin"
